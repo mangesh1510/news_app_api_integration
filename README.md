@@ -1,2 +1,25 @@
-# news_app_api_integration
-A Flutter-based app demonstrating Firebase authentication and real-time API integration. It includes user login/register, clean UI, and navigation between screens. Built to showcase Flutter + Firebase skills with a focus on real-world app structure and API usage.
+Flutter Firebase News App
+A simple and modern mobile application built using Flutter and Firebase that demonstrates real-time API integration and authentication.
+🚀 Features
+🔐 User Authentication using Firebase (Email & Password)
+📱 Clean and responsive UI with modern design
+🔄 Navigation between Login and Home screens
+🌐 Real-time API integration (News or external data)
+⚡ Firebase setup and integration from scratch
+
+🛠️ Tech Stack
+Flutter (Dart)
+
+Firebase Authentication
+Firebase Core
+REST API (for news or external data)
+Material UI
+
+🎯 Purpose
+This project was created to demonstrate:
+
+Firebase integration in Flutter
+Real-time authentication flow
+API usage in a mobile application
+Clean UI/UX design principles
+
